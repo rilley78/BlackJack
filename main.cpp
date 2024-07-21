@@ -6,7 +6,8 @@
 
 
 std::queue<std::string> Deck();
-void Output(const std::vector<std::string>& dealer, const std::vector<std::vector<std::string>>& player);
+void Output(const std::vector<std::string>& dealer, const std::vector<std::vector<std::string>>& player, int d, int p);
+int Counter(std::vector<std::string> toCount);
 
 int main()
 {
@@ -19,11 +20,13 @@ int main()
         player[0].push_back(deck.front());
         deck.pop();
     }
-    for (int i = 0; i < 2; i++)
-    {
-        dealer.push_back(deck.front());
-        deck.pop();
-    }
-    Output(dealer, player);
+    
+    dealer.push_back(deck.front());
+    deck.pop();
+    
+    int dealercount = Counter(dealer);
+    int playercount = Counter(player[0]);
+    
+    Output(dealer, player, dealercount, playercount);
     std::cin.get();
 }

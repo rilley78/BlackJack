@@ -3,19 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Glebuss\\source\\repos\\BlackJack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|C:\\Users\\Glebuss\\source\\repos\\BlackJack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|C:\\Users\\Glebuss\\source\\repos\\BlackJack\\counter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|solutionrelative:counter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|C:\\Users\\Glebuss\\source\\repos\\BlackJack\\deck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|solutionrelative:deck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|C:\\Users\\Glebuss\\source\\repos\\BlackJack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|C:\\Users\\Glebuss\\source\\repos\\BlackJack\\output.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|solutionrelative:output.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Setup\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\include\\random||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+      "AbsoluteMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|C:\\Users\\Glebuss\\source\\repos\\BlackJack\\deck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|solutionrelative:deck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|C:\\Users\\Glebuss\\source\\repos\\BlackJack\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -29,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,13 +42,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "random",
-              "DocumentMoniker": "E:\\Setup\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\include\\random",
-              "ToolTip": "E:\\Setup\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\include\\random",
-              "ViewState": "AQIAAO0AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-20T21:18:40.25Z"
+              "DocumentIndex": 0,
+              "Title": "counter.cpp",
+              "DocumentMoniker": "C:\\Users\\Glebuss\\source\\repos\\BlackJack\\counter.cpp",
+              "RelativeDocumentMoniker": "counter.cpp",
+              "ToolTip": "C:\\Users\\Glebuss\\source\\repos\\BlackJack\\counter.cpp",
+              "RelativeToolTip": "counter.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-21T20:13:42.056Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -69,27 +73,27 @@
               "RelativeDocumentMoniker": "output.cpp",
               "ToolTip": "C:\\Users\\Glebuss\\source\\repos\\BlackJack\\output.cpp",
               "RelativeToolTip": "output.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-20T20:48:05.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Glebuss\\source\\repos\\BlackJack\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\Glebuss\\source\\repos\\BlackJack\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-18T20:36:18.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "deck.cpp",
               "DocumentMoniker": "C:\\Users\\Glebuss\\source\\repos\\BlackJack\\deck.cpp",
               "RelativeDocumentMoniker": "deck.cpp",
