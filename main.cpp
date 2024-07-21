@@ -10,6 +10,7 @@ void Output(const std::vector<std::string>& dealer, const std::vector<std::vecto
 
 int main()
 {
+    
     std::vector<std::string> dealer;
     std::vector<std::vector<std::string>> player(1);
     std::queue<std::string> deck = Deck();
