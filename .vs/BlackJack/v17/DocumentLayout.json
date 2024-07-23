@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Glebuss\\source\\repos\\BlackJack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|C:\\Users\\Glebuss\\source\\repos\\BlackJack\\counter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|solutionrelative:counter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|C:\\Users\\Glebuss\\source\\repos\\BlackJack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -15,8 +11,16 @@
       "RelativeMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|solutionrelative:output.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|C:\\Users\\Glebuss\\source\\repos\\BlackJack\\emptyCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|solutionrelative:emptyCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|C:\\Users\\Glebuss\\source\\repos\\BlackJack\\deck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|solutionrelative:deck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|C:\\Users\\Glebuss\\source\\repos\\BlackJack\\counter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|solutionrelative:counter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45B26031-6EA8-468A-BE6C-DDAB98279E67}|BlackJack.vcxproj|C:\\Users\\Glebuss\\source\\repos\\BlackJack\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +46,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "emptyCheck.cpp",
+              "DocumentMoniker": "C:\\Users\\Glebuss\\source\\repos\\BlackJack\\emptyCheck.cpp",
+              "RelativeDocumentMoniker": "emptyCheck.cpp",
+              "ToolTip": "C:\\Users\\Glebuss\\source\\repos\\BlackJack\\emptyCheck.cpp",
+              "RelativeToolTip": "emptyCheck.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-23T21:51:56.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "counter.cpp",
               "DocumentMoniker": "C:\\Users\\Glebuss\\source\\repos\\BlackJack\\counter.cpp",
               "RelativeDocumentMoniker": "counter.cpp",
               "ToolTip": "C:\\Users\\Glebuss\\source\\repos\\BlackJack\\counter.cpp",
               "RelativeToolTip": "counter.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-21T20:13:42.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\Glebuss\\source\\repos\\BlackJack\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -67,26 +84,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "output.cpp",
               "DocumentMoniker": "C:\\Users\\Glebuss\\source\\repos\\BlackJack\\output.cpp",
               "RelativeDocumentMoniker": "output.cpp",
               "ToolTip": "C:\\Users\\Glebuss\\source\\repos\\BlackJack\\output.cpp",
               "RelativeToolTip": "output.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABEAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-20T20:48:05.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Glebuss\\source\\repos\\BlackJack\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\Glebuss\\source\\repos\\BlackJack\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAEAAAA",
+              "ToolTip": "C:\\Users\\Glebuss\\source\\repos\\BlackJack\\main.cpp*",
+              "RelativeToolTip": "main.cpp*",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-18T20:36:18.044Z",
               "EditorCaption": ""
@@ -99,7 +116,7 @@
               "RelativeDocumentMoniker": "deck.cpp",
               "ToolTip": "C:\\Users\\Glebuss\\source\\repos\\BlackJack\\deck.cpp",
               "RelativeToolTip": "deck.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-18T20:52:33.113Z",
               "EditorCaption": ""

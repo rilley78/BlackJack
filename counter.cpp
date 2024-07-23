@@ -19,5 +19,5 @@ int Counter(std::vector<std::string> toCount)
             count += std::stoi(elem);
         }
     }
-
+    return count;
 }
