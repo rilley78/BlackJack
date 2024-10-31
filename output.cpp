@@ -2,9 +2,10 @@
 #include <string>
 #include <iostream>
 
-void Output(const std::vector<std::string>& dealer,const std::vector<std::vector<std::string>>& player, int d, int p)
+void Output(const std::vector<std::string>& dealer,const std::vector<std::vector<std::string>>& player, int d, int p, int pscore)
 {
 	system("cls");
+	std::cout << "Your score: " << pscore << "\n\n";
 	std::cout << "dealer:\n";
 	for (const auto& elem : dealer)
 	{
